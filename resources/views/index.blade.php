@@ -108,6 +108,5 @@
       <div id="map" class="bg-primary p-2" style="width: 100%; height: 500px;"></div>
     </div>
 
-    <script src="{{asset("js/app.js")}}"></script>
   </body>
   </html>
